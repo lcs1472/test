@@ -1,6 +1,6 @@
 
 
-This is 2nd file of first branch.
+This is 2nd file of master branch.
 
 
 2nd file is changed.
