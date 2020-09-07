@@ -1,0 +1,3 @@
+This is forth file.
+
+Do you understand?
